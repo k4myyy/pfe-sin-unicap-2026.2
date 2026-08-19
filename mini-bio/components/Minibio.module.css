@@ -1,0 +1,32 @@
+.container {
+  padding: 55px 45px;
+  background-color: #3e2426;
+  text-align: center;
+}
+
+.titulo {
+  margin: 0 0 16px 0;
+  color: #f4c9d6;
+  font-family: 'Outfit', sans-serif;
+  font-size: 20px; 
+  font-weight: 700;
+  text-align: center;
+}
+
+.destaque {
+  color: #f4c9d6;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;                 
+  font-size: 16px;                
+  line-height: 1.6;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.texto {
+  color: #f4c9d6;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px 25px;
+  background-color: #f4c9d6;
+}
+
+.foto {
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.nome {
+  color: #3e2426 !important;
+  font-family: 'Outfit', sans-serif !important;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.subtitulo {
+  color: #3e2426 !important;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 8px;
+}
